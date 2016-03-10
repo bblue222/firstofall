@@ -12,6 +12,8 @@ practice space
   [link](http://wiki.openstreetmap.org/wiki/Map_Features#Natural)
 
 * Exporting to Adobe Illustrator
-[link](http://wiki.openstreetmap.org/wiki/Exporting_to_Adobe_Illustrator)
+ [link](http://wiki.openstreetmap.org/wiki/Exporting_to_Adobe_Illustrator)
 
+* draw Azimuthal line and equal distant line on Google map
+ [link](http://user.numazu-ct.ac.jp/~tsato/webmap/sphere/concentric/)
 
