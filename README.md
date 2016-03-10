@@ -1,9 +1,8 @@
 # firstofall
 practice space
 
-日本語は使用可能か？
 
-備忘録
+## 備忘録
 
 - [ ] OSM about map feature
 http://wiki.openstreetmap.org/wiki/Map_Features#Natural
