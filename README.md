@@ -1,7 +1,6 @@
 # firstofall
 practice space
 
-
 ## オープンストリートマップ関連
 
 * オープンストリートマップWIKI
