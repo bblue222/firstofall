@@ -6,3 +6,5 @@ http://maps.gsi.go.jp/development/ichiran.html#std
 http://leafletjs.com/reference.html
 * leaflet docs
 http://leafletjs.com/reference-1.0.0.html#map-methods-for-modifying-map-state
+* html tag
+http://www.htmq.com/html/var.shtml
