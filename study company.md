@@ -68,8 +68,13 @@
 - 皆でプログラミングに取り組む
 
  > scratchを使ってプログラミング勉強をする。　https://scratch.mit.edu
+ >
  > ビスケットを使ってプログラミング勉強をする。　http://www.digitalpocket.org/viscuit/
+ >
  > アイデアソンをやった結果をビジュアル言語を使い、ハッカソンまで行う。
+ >
+ > blocly(Google)　http://www.catch.jp/program/blockly/apps/code/index.html?lang=ja
+ >
 
 以上をまとめた結果、20日は6月のアイデアソンの為にアウトプットするビジュアル言語をかじる。
 
