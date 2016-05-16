@@ -79,7 +79,7 @@
  >
  > blocly(Google)は言語切り替えで日英両語使える。　http://www.catch.jp/program/blockly/apps/code/index.html?lang=ja
  >
- > あまりプログラミングがわからない人はスクラッチか　https://blockly-games.appspot.com/?lang=ja　で練習もできます。
+ > あまりプログラミングがわからない人は右記のサイトで練習も可。　https://blockly-games.appspot.com/?lang=ja
  >
 
 以上をまとめた結果、20日は6月のアイデアソンの為にアウトプットするビジュアル言語をかじる。
