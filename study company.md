@@ -73,7 +73,7 @@
  >
  > アイデアソンをやった結果をビジュアル言語を使い、ハッカソンまで行う。
  >
- > blocly(Google)　http://www.catch.jp/program/blockly/apps/code/index.html?lang=ja
+ > blocly(Google)は言語切り替えで日本語も英語も使える。　http://www.catch.jp/program/blockly/apps/code/index.html?lang=ja
  >
 
 以上をまとめた結果、20日は6月のアイデアソンの為にアウトプットするビジュアル言語をかじる。
