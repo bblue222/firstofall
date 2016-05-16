@@ -82,7 +82,7 @@
  >
  > アイデアソンをやった結果をビジュアル言語を使い、ハッカソンまで行う。
  >
- > blocly(Google)は言語切り替えで日英両語使える。　http://www.catch.jp/program/blockly/apps/code/index.html?lang=ja
+ > blockly(Google)は言語切り替えで日英両語使える。　http://www.catch.jp/program/blockly/apps/code/index.html?lang=ja
  >
  > あまりプログラミングがわからない人は右記のサイトで練習も可。　https://blockly-games.appspot.com/?lang=ja
  >
