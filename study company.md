@@ -71,11 +71,15 @@
 
  > scratchを使ってプログラミング勉強をする。　https://scratch.mit.edu
  >
+ > scratchの使い方はこちら→　https://scratch.mit.edu/projects/931658/
+ >
  > ビスケットを使ってプログラミング勉強をする。　http://www.digitalpocket.org/viscuit/
  >
  > アイデアソンをやった結果をビジュアル言語を使い、ハッカソンまで行う。
  >
  > blocly(Google)は言語切り替えで日英両語使える。　http://www.catch.jp/program/blockly/apps/code/index.html?lang=ja
+ >
+ > あまりプログラミングがわからない人はスクラッチか　https://blockly-games.appspot.com/?lang=ja　で練習もできます。
  >
 
 以上をまとめた結果、20日は6月のアイデアソンの為にアウトプットするビジュアル言語をかじる。
